@@ -4,3 +4,4 @@ class Post
   
  
 end 
+
