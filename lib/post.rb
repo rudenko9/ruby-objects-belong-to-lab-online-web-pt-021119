@@ -4,5 +4,5 @@ class Post
    
   end
   
-  a = Post.author
+
 
